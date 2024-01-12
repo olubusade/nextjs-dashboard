@@ -1,1 +1,1 @@
-Basic Financial Dashboard using next.js, React.js, Vercel, TailWind and Postgresql
+#Basic Financial Dashboard using next.js, React.js, Vercel, TailWind and Postgresql
